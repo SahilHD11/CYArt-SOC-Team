@@ -4,7 +4,7 @@
 
 # 📁 Repository Structure
 .
-├── Week_4_Report.docx
+├── Week_4_Report.pdf
 └── README.md
 
 ---
